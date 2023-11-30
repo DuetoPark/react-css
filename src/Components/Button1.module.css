@@ -1,0 +1,13 @@
+.button {
+  min-width: 150px;
+  height: 48px;
+  border-radius: 4px;
+  background-color: #efefef;
+  font-size: 18px;
+  font-weight: 500;
+  transition: background-color 150ms ease-in-out;
+}
+
+.button:hover {
+  background-color: #ddd;
+}
